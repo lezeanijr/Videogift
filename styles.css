@@ -1,0 +1,112 @@
+
+
+.homepage-div{
+  width: 500px;
+  display: inline-block;
+}
+
+.homepage-cont {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+  .Title {
+    font-family: 'Merriweather', serif;
+    color:red;
+  }
+  .intro-text{
+    font-family: 'Merriweather', serif;
+    text-align: right;
+    font-size: 37px;
+    vertical-align:top;
+   display:inline-block;
+
+  }
+
+ 
+  .create-a-videogift
+  {
+    font-size: 20px;
+    font-weight:bold ;
+    background-color: red;
+    color: white;
+    border: none;
+    margin-top:70px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left:400px;
+    width: 400px;
+    border-radius: 20px;
+    transition: opacity 0.15s
+    
+    
+  }
+  .create-a-videogift:hover{
+    opacity: 0.8;
+  }
+  .create-a-videogift:active{
+    opacity: 0.5;
+      .login
+  {
+    background-color: red;
+    color: white;
+    border: none;
+    height:36px;
+    width: 105px;
+    transition: opacity 0.15s ;
+    }
+  .login:hover{
+    opacity: 0.8;
+  }
+  .login:active{
+    opacity: 0.5;
+  }
+  .sign-up
+  {
+    background-color: red;
+    color: white;
+    border: none;
+    height:36px;
+    width: 105px;
+     transition: opacity 0.15s
+    
+  }
+  .sign-up:hover{
+    opacity: 0.8;
+  }
+  .sign-up:active{
+    opacity: 0.5;
+  }
+   .back-button
+  {
+    background-color:black;
+    color: white;
+    
+    border: none;
+    height:36px;
+    width: 105px;
+     transition: opacity 0.15s
+    
+  }
+  .back-button:hover
+  {
+    opacity: 0.8;
+  }
+  .back-button:active
+  {
+    opacity: 0.5;
+  }
+.Email-input , .Password-input
+    {
+      font-size:20px;
+    }
+    .homepage-img {
+      width: 20px;
+      display: ;
+    }
+      
+
+     
+        
+
+    
